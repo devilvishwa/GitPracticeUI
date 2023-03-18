@@ -6,5 +6,7 @@ public class Prints {
 		System.out.println("helloooo......");
 		System.out.println("byee......");
 		System.out.println("stopppppp......");
+		System.out.println("continue the task.....");
+		System.out.println("kkkkkkkkkkkkkkk......");
 	}
 }
